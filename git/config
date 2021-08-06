@@ -1,0 +1,5 @@
+[core]
+	autocrlf = input
+	eol = lf
+[pull]
+	rebase = true
